@@ -51,7 +51,7 @@ export default function RootLayout({
 
               <footer className="w-full bg-slate-200 flex items-center justify-center border-t mx-auto text-center text-xs gap-2 py-8">
                 <p>
-                  Developedd by{" "}
+                  Developed by{" "}
                   <a
                     href="https://github.com/Robin-Kurian"
                     target="_blank"
